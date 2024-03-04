@@ -1,0 +1,89 @@
+
+/*All */
+*{
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+/*Standard Tags */
+
+h1{
+    text-align: center;
+    padding-top: 40px;
+}
+
+
+/* Classes */
+
+.row{
+    margin-bottom: 15px;
+}
+
+
+.text-container{
+    height: 200px;
+    border: 2px solid black;
+    margin: 20px 30px 20px 10px;
+    display: block-inline;
+    padding: 0px;
+    font-size: 20px;
+    background-color: lightgrey
+    
+}
+
+.food-item{
+    height: 200px;
+    border: 2px solid black
+}
+
+.container-float{
+    margin: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
+.spacing-container{
+    position:relative;
+    float: top;
+    margin: 0px;
+    padding: 0px;
+    height: 64px;
+}
+
+.food-container{
+    position: relative;
+    float: right;
+    border: 1px solid black;
+    margin: 0;
+    padding: 5px;
+    width: 150px;
+    
+}
+
+.text{
+    margin: 5px 0px 0px 0px;
+    padding: 5px 15px 125px 15px;
+    height: 130px;
+    overflow:hidden;
+}
+/* ID's */
+
+#chicken{
+    background-color: lightcoral;
+}
+
+#beef{
+    background-color: lightgreen;
+}
+#sushi{
+    background-color:lightblue
+}
+
+h3{
+    text-align: center;
+    font-size: 26px;
+}
+
+/* Classes */
